@@ -1,0 +1,31 @@
+/.metadata/
+#Arquivo de classe compilado
+*.aula
+*.class
+
+# Arquivo de log
+*.registro
+*.log
+
+#Arquivos BlueJ
+*.ctxt
+
+# Ferramentas Móveis para Java (J2ME)
+.mtj.tmp/
+
+# Arquivos de pacote #
+*.jar
+*.guerra
+*.nar
+*.orelha
+*.fecho eclair
+*.tar.gz
+*.rar
+
+# logs de falhas de máquinas virtuais, consulte http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+repetição_pid*
+
+.settings
+
+.vscode
